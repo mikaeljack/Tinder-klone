@@ -66,6 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Tinder-klone_V0.1
-# Tinder-klone_V0.1
-# Tinder_v0.1

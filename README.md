@@ -1,3 +1,11 @@
+Første versjon ligger ute på https://tinder-klone.web.app/
+
+Laget med React.js og Firebase.
+
+Knappene har ikke fått funksjoner i første versjon. Kun melding, tilbake-knappen og "Tinder"-knappen fungerer. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mikaeljack/Tinder-klone.git/static/css/main.0e530403.chunk.css",
+    "main.js": "/mikaeljack/Tinder-klone.git/static/js/main.016b248a.chunk.js",
+    "main.js.map": "/mikaeljack/Tinder-klone.git/static/js/main.016b248a.chunk.js.map",
+    "runtime-main.js": "/mikaeljack/Tinder-klone.git/static/js/runtime-main.4cb11332.js",
+    "runtime-main.js.map": "/mikaeljack/Tinder-klone.git/static/js/runtime-main.4cb11332.js.map",
+    "static/js/2.cb568db7.chunk.js": "/mikaeljack/Tinder-klone.git/static/js/2.cb568db7.chunk.js",
+    "static/js/2.cb568db7.chunk.js.map": "/mikaeljack/Tinder-klone.git/static/js/2.cb568db7.chunk.js.map",
+    "index.html": "/mikaeljack/Tinder-klone.git/index.html",
+    "precache-manifest.f566b79767bad9c0e4b0b43cff25ded4.js": "/mikaeljack/Tinder-klone.git/precache-manifest.f566b79767bad9c0e4b0b43cff25ded4.js",
+    "service-worker.js": "/mikaeljack/Tinder-klone.git/service-worker.js",
+    "static/css/main.0e530403.chunk.css.map": "/mikaeljack/Tinder-klone.git/static/css/main.0e530403.chunk.css.map",
+    "static/js/2.cb568db7.chunk.js.LICENSE.txt": "/mikaeljack/Tinder-klone.git/static/js/2.cb568db7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cb11332.js",
+    "static/js/2.cb568db7.chunk.js",
+    "static/css/main.0e530403.chunk.css",
+    "static/js/main.016b248a.chunk.js"
+  ]
+}
